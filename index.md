@@ -3,7 +3,7 @@ layout: cv
 title: Benny Chen's CV
 ---
 # 陈昊
-Lifetime Game Developer
+A Game Developer
 
 <div id="webaddress">
 <a href="mailto:rockerbenny@gmail.com">rockerbenny@gmail.com</a>
