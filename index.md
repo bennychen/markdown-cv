@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Benny Chen's CV
+title: Benny Chen
 ---
 # 陈昊 Benny Chen
 A Game Developer
@@ -88,7 +88,6 @@ __得到 App__（订阅专栏万维钢，李笑来，张潇雨，吴军，李翔
 __指弹吉他__
 
 <!-- ### Footer
-
 Last updated: January 2018 -->
 
 
