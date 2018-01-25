@@ -2,7 +2,7 @@
 layout: cv
 title: Benny Chen's CV
 ---
-# 陈昊
+# 陈昊 Benny Chen
 A Game Developer
 
 <div id="webaddress">
