@@ -14,7 +14,7 @@ A Game Developer
 
 ## 当前状况
 
-独立开发者
+__独立开发者__ 开发微信小程序 & 小游戏
 
 ## 专业技能
 
@@ -83,9 +83,8 @@ __北京理工大学__，软件工程（数字媒体），本科
 [Uberstrike](http://www.uberstrike.com/)
 
 ## 业余时间
-__读书__ 
-[近些年的阅读列表](https://github.com/bennychen/readings/blob/master/README.md)
-
+__读书__（[近些年的阅读列表](https://github.com/bennychen/readings/blob/master/README.md)）
+__得到 App__（订阅专栏万维钢，李笑来，张潇雨，吴军，李翔）
 __指弹吉他__
 
 <!-- ### Footer
