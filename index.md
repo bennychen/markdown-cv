@@ -9,7 +9,7 @@ A Game Developer
 <a href="mailto:rockerbenny@gmail.com">rockerbenny@gmail.com</a>
 | <a href="https://github.com/bennychen">Github</a>
 | <a href="https://linkedin.com/in/chenhao1986">LinkedIn</a>
-| <a href="http://www.bennychen.cn">Website</a>
+| <a href="https://bennychen.github.io/">Website</a>
 </div>
 
 ## 当前状况
